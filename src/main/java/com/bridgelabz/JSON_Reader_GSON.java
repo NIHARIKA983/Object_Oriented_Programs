@@ -14,7 +14,7 @@ public class JSON_Reader_GSON {
         // Java Object variable
         Object obj = jsonparser.parse(reader);// THis is my Main Object i.e which includes JSONParser, JSONObject, JSONarray
         // JSON Object ( after type casting)
-        JSONObject inventoryobj = (JSONObject) obj;// FIle Inventory.json it will pasrse the object to JSONObject
+        JSONObject inventoryobj = (JSONObject) obj;// FIle InventoryDetails.json it will pasrse the object to JSONObject
         JSONArray ricearray = (JSONArray) inventoryobj.get("rice");// Will now change JSON Object to JSON Array.
         JSONArray wheatarray = (JSONArray) inventoryobj.get("wheat");
         JSONArray pulsesarray = (JSONArray) inventoryobj.get("pulses");

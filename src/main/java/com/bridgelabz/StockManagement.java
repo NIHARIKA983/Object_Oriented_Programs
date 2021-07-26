@@ -59,7 +59,7 @@ public class StockManagement {
         }
         getInputFromUser();
     }
-   // @SuppressWarnings("unchecked")
+
     public  void addStock() {
         System.out.println("******* Add stock *******");
         Scanner sc = new Scanner(System.in);

@@ -1,9 +1,11 @@
+com/bridgelabz/DeckOfCards.java
+ com.bridgelabz.DeckOfCards
 com/bridgelabz/Inventory.java
  com.bridgelabz.Inventory
-com/bridgelabz/JSON_Reader_GSON.java
- com.bridgelabz.JSON_Reader_GSON
 com/bridgelabz/InventoryDetails.java
  com.bridgelabz.InventoryDetails
+com/bridgelabz/JSON_Reader_GSON.java
+ com.bridgelabz.JSON_Reader_GSON
 com/bridgelabz/StockManagement.java
  com.bridgelabz.StockManagement
 com/bridgelabz/StockManagementMain.java

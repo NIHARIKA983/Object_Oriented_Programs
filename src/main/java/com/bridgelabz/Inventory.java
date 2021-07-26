@@ -23,7 +23,6 @@ public class Inventory {
 
             //Printing the Inventory Details
             System.out.println("****Inventory Details****");
-            //System.out.println("Type:"+Inventory.getType());
             System.out.println(" Name    : "+inventory.getName());
             System.out.println(" Weight      : "+inventory.getWeight());
             System.out.print(" Price_Per_Kg: "+inventory.getPrice_per_kg());
