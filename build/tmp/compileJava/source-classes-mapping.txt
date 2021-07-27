@@ -8,5 +8,9 @@ com/bridgelabz/JSON_Reader_GSON.java
  com.bridgelabz.JSON_Reader_GSON
 com/bridgelabz/StockManagement.java
  com.bridgelabz.StockManagement
+com/bridgelabz/StockBuySellDetails.java
+ com.bridgelabz.StockBuySellDetails
 com/bridgelabz/StockManagementMain.java
  com.bridgelabz.StockManagementMain
+com/bridgelabz/StockAccount.java
+ com.bridgelabz.StockAccount

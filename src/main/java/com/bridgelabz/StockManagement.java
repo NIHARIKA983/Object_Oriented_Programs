@@ -85,4 +85,5 @@ public class StockManagement {
         System.out.println("added: "+jsonObject);
         getInputFromUser();
     }
+
 }
